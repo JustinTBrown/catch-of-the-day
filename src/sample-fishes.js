@@ -2,7 +2,8 @@
 const fishes = {
   fish1: {
     name: 'Pacific Halibut',
-    image: 'https://i.istockimg.com/file_thumbview_approve/36248396/5/stock-photo-36248396-blackened-cajun-sea-bass.jpg',
+    // image: 'https://i.istockimg.com/file_thumbview_approve/36248396/5/stock-photo-36248396-blackened-cajun-sea-bass.jpg',
+    image: 'https://media.istockphoto.com/photos/sea-bass-with-lobster-picture-id151719784',
     desc: 'Everyones favorite white fish. We will cut it to the size you need and ship it.',
     price: 1724,
     status: 'available'
@@ -34,7 +35,8 @@ const fishes = {
 
   fish5: {
     name: 'King Crab',
-    image: 'https://i.istockimg.com/file_thumbview_approve/18294110/5/stock-photo-18294110-king-crab-legs.jpg',
+    // image: 'https://i.istockimg.com/file_thumbview_approve/18294110/5/stock-photo-18294110-king-crab-legs.jpg',\
+    image: 'https://media.istockphoto.com/photos/sea-bass-with-lobster-picture-id151719784',
     desc: 'Crack these open and enjoy them plain or with one of our cocktail sauces',
     price: 4234,
     status: 'available'
